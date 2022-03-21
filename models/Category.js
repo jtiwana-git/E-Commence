@@ -24,7 +24,7 @@ Category.init(
     timestamps: false,
     freezeTableName: true,
     underscored: false, //changed
-    modelName: 'category',
+    modelName: 'Category',
   }
 );
 
